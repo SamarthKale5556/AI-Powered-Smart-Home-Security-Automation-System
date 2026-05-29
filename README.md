@@ -51,27 +51,29 @@ The system performs on-device AI inference, identifies authorized family members
 
 ## 🏗️ System Architecture
 
-![Architecture](architecture)
+![Architecture](./architecture.jpeg)
 
 ---
 
 ## 📸 Project Gallery
 
 ### Face Dataset & Training
-![Dataset](dataset)
+![Dataset](./dataset.jpeg)
+
+### Dataset Structure
+![Dataset Folder](./dataset-folder.jpeg)
 
 ### Live Face Recognition
-![Recognition](face-recognition)
+![Recognition](./face-recognition.jpeg)
 
 ### Hardware Setup
-![Hardware](hardware-setup)
+![Hardware](./hardware-setup.jpeg)
 
 ### Telegram Intruder Alert
-![Intruder Alert](intruder-alert)
+![Intruder Alert](./intruder-alert.jpeg)
 
 ### Telegram Gas Leakage Alert
-![Gas Alert](gas-alert)
-
+![Gas Alert](./gas-alert.jpeg)
 ---
 
 ## 🛠️ Tech Stack
