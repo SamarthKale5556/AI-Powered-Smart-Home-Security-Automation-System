@@ -111,7 +111,7 @@ Power BI Analytics
 |----------|----------|
 | Recognition Accuracy | 92–95% |
 | Alert Response Time | 2–4 Seconds |
-| Dataset Size | 120+ Images |
+| Dataset Size | 90+ Images |
 | Family Members Recognized | 3 |
 | Sensors Integrated | 5 |
 | Event Logs Generated | 400+ |
