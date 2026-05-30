@@ -55,27 +55,6 @@ The system performs on-device AI inference, identifies authorized family members
 
 ---
 
-## 📸 Project Gallery
-
-### Face Dataset & Training
-![Dataset](./dataset.jpeg)
-
-### Dataset Structure
-![Dataset Folder](./dataset-folder.jpeg)
-
-### Live Face Recognition
-![Recognition](./face-recognition.jpeg)
-
-### Hardware Setup
-![Hardware](./hardware-setup.jpeg)
-
-### Telegram Intruder Alert
-![Intruder Alert](./intruder-alert.jpeg)
-
-### Telegram Gas Leakage Alert
-![Gas Alert](./gas-alert.jpeg)
----
-
 ## 🛠️ Tech Stack
 
 **AI & Computer Vision**
